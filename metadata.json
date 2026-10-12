@@ -1,0 +1,6 @@
+{
+  "name": "Thriftory POS",
+  "description": "Sistem POS & Retail Management Lengkap untuk Fashion, Thrift, Vintage & Distro (Admin, Kasir, Mobile & Offline-First)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
